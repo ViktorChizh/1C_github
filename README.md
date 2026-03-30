@@ -1,1 +1,1 @@
-<h1 align="center">Тут выкладываю свои учебные проекты и тестовые задания по 1С направлению</h1>
+<img src="https://img.icons8.com/?size=160&id=UW1OXZtVotdi&format=png" title="1С" alt="1С" width="35" height="35"/>&nbsp; <h1 align="center">Тут выкладываю свои учебные проекты и тестовые задания по 1С направлению</h1>
